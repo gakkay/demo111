@@ -6,6 +6,6 @@ public class gitT {
         System.out.println("222");
         System.out.println("333");
         System.out.println("merge branch");
-        System.out.println("merge gaaga1111");
+        System.out.println("merge gaaga6666");
     }
 }
